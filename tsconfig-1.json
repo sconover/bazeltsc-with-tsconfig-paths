@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "out",
+    "declaration": true,
+    "baseUrl": ".",
+    "paths": {
+      "@a/*": [
+        "a/*"
+      ]
+    }
+  },
+  "files": [
+    "a/a.ts",
+    "b/b.ts"
+  ]
+}

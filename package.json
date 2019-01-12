@@ -1,0 +1,13 @@
+{
+  "name": "bazeltsc-with-tsconfig-paths",
+  "version": "0.0.1",
+  "description": "reproduction of bazeltsc path-alias load problem",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "3.2.2",
+    "tsconfig-paths": "3.7.0",
+    "bazeltsc": "1.1.1"
+  },
+  "author": "Steve Conover",
+  "license": "ISC"
+}
